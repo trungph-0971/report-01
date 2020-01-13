@@ -96,4 +96,7 @@ Cho vấn đề đó, Webpacker cung cấp một phương thức helper có tên
 
 Bên trên mình đã cung cấp một các thông tin sơ lược về Webpacker, và làm thể nào nó có thể cho chúng ta sử dụng webpack trong một ứng dụng Rails 6 và hiểu được `packs` trong thế giới của Webpacker. Bên cạnh đó là quá trình biên dịch diễn ra như thế nào và làm sao sử dụng các đoạn code đã được biên dịch trong ứng dụng của chúng ta. Hẹn gặp lại các bạn ở kì sau, mong là bài viết đã mang lại các thông tin bổ ích cho các bạn. Peace!
 
+Link tham khảo:
 
+https://github.com/rails/webpacker
+https://prathamesh.tech/2019/08/26/understanding-webpacker-in-rails-6/
