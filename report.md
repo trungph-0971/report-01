@@ -99,4 +99,5 @@ Bên trên mình đã cung cấp một các thông tin sơ lược về Webpacke
 Link tham khảo:
 
 https://github.com/rails/webpacker
+
 https://prathamesh.tech/2019/08/26/understanding-webpacker-in-rails-6/
